@@ -32,7 +32,7 @@ stage('OWASP FS SCAN') {
             }
         }
 ```
-###
+####
 # ARGO CD SETUP
 https://archive.eksworkshop.com/intermediate/290_argocd/install/
 
