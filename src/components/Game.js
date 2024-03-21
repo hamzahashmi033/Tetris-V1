@@ -48,6 +48,7 @@ export const Game = (props) => {
         <div className={styles.content}>
             <div className={styles.header}><span>React Tetris</span></div>
                 <h1>Hamza Hashmi</h1>
+        <h1>Devops Engineer</h1>
             <div className={styles.matrix}>
                 {matrix}
                 {gameOver}
