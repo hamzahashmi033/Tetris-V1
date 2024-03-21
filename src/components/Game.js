@@ -46,7 +46,6 @@ export const Game = (props) => {
 
     return (
         <div className={styles.content}>
-            <h1>Hamza Hashmi</h1>
             <div className={styles.header}><span>React Tetris</span></div>
             <div className={styles.matrix}>
                 {matrix}
@@ -76,7 +75,7 @@ export const Game = (props) => {
                         Rotate: Arrow Up <br/>
                         Left: Arrow Left <br/>
                         Right: Arrow Right <br/>
-                        Soft Drop: Arrow Down <br/>
+                        Soft Drop: Arrow Down Hamza hashmi <br/>
                     </p>
                 </div>
             </div>
